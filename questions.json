@@ -1,0 +1,35 @@
+{ 
+  "Questions":
+  [
+    {   "QuestionID" : "1",
+        "questionsAsked": "a bullet is fired horizontally 1.5m above ground level. It has a horizontal velocity of 430m s-1. Calculate the time it takes to hit the ground. (Answer to 2 significant figures)" 
+    },
+    {   "QuestionID" : "2",
+        "questionsAsked": "Calculate the horizontal distance travelled by the bullet before it hits the ground. (Answer to 2 significant figures)" 
+    },
+    {   "QuestionID" : "3",
+        "questionsAsked": "A tennis player serves a ball from a height of 2.51 m at 18.0 ms\u20131 in a horizontal direction. The ball just clears the net which is 1.00 m high. In this question assume that air resistance is negligible. How long does the ball take to reach the net after being served? (Answer to 2 significant figures)" 
+    },
+    {   "QuestionID" : "4",
+        "questionsAsked": "Calculate the vertical component of the velocity of the ball as it passes over the net. (Answer to 2 significant figures)" 
+    },
+    {   "QuestionID" : "5",
+        "questionsAsked": "Calculate the magnitude of the overall velocity of the ball as it passes over the net (m s^-1). (Answer to 2 significant figures)"
+     },
+    {   "QuestionID" : "6",
+        "questionsAsked": "What is the angle to the horizontal? (degrees).(Answer to 2 significant figures)"
+     },
+    {   "QuestionID" : "7",
+        "questionsAsked": "A plastic card of known length is released from rest at a height of 0.50m. The velocity of the card as it travelled is 3.10ms\u20131. Calculate a value for the acceleration due to gravity, g (Answer to 2 significant figures)" 
+    },
+    {   "QuestionID" : "8",
+        "questionsAsked": "A ship was hit by a cannonball at a horizontal distance of 150 m from the cannon.The height of the cannon above the river was 67 m and the cannonball was fired horizontally. What was the time taken for the cannonball to reach the water surface after being fired from the cannon? (Answer to 2 significant figures)" 
+    },
+    {   "QuestionID" : "9",
+        "questionsAsked": "Calculate the velocity at which the cannonball was fired.(Answer to 2 significant figures)" 
+    },
+    {   "QuestionID" : "10",
+        "questionsAsked": "Calculate the vertical component of velocity just before the cannonball hit the ship.(Answer to 2 significant figures)"
+     }
+  ]
+}

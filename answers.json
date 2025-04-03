@@ -1,0 +1,46 @@
+{
+    "Answers":
+    [
+    {   "answerID":"1",
+        "answerstoquestion":"0.55",
+        "explanation":"1) Use the \"s= ut + at^2 \/2\" equation\t\t\t\t\t\t2) u = 0 and a = 9.81 3) input the rest of the values into the equation'\r\n"
+    },
+    {   "answerID":"2",
+        "answerstoquestion":"240",
+        "explanation":"'1) Use the s = v\/t equation\t\t\t\t\t 2) Rearrange to get v= st 3) Input the values into the equation\r\n"
+    },
+    {   "answerID":"3",
+        "answerstoquestion":"'0.55'",
+        "explanation":"'1) time = distance\/speed\t\t\t\t\t\t 2) find change in distance 3) input values into the equation'\r\n"
+    },
+    {   "answerID":"4",
+        "answerstoquestion":"5.4",
+        "explanation":"s=vt"
+    },    
+    {   "answerID":"5",
+        "answerstoquestion":"19",
+        "explanation":"s = root (st\/g)"
+    },
+    {   "answerID":"6",
+        "answerstoquestion":"17",
+        "explanation":"0"
+    },
+    {   "answerID":"7",
+        "answerstoquestion":"10",
+        "explanation":"1"
+    },
+    {   "answerID":"8",
+        "answerstoquestion":"0",
+        "explanation":"0"
+    },
+    {   "answerID":"9",
+        "answerstoquestion":"41",
+        "explanation":"0"
+    },
+    {   "answerID":"10",
+        "answerstoquestion":"36",
+        "explanation":"0"
+    }
+    ]
+    
+}
